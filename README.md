@@ -1,6 +1,6 @@
 ### Hi there 👋, Hey,i am passionate coder
 #### Exploring coding to solve real-world problems
-"Hi, I'm sanjid, a passionate learner diving into the world of programming. Currently, I'm mastering Data Structures and Algorithms (DSA) and exploring Web Design. I love solving problems through code and aspire to build impactful software solutions. When I'm not coding, I enjoy exploring new technologies and learning from the developer community."
+Hi, I'm sanjid, a passionate learner diving into the world of programming. Currently, I'm mastering Data Structures and Algorithms (DSA) and exploring Web Design. I love solving problems through code and aspire to build impactful software solutions. When I'm not coding, I enjoy exploring new technologies and learning from the developer community.
 
 Skills: C/ HTML / CSS
 
