@@ -1,11 +1,35 @@
-### Hi there 👋, Hey,i am passionate coder
-#### Exploring coding to solve real-world problems
-Hi, I'm sanjid, a passionate learner diving into the world of programming. Currently, I'm mastering Data Structures and Algorithms (DSA) and exploring Web Design. I love solving problems through code and aspire to build impactful software solutions. When I'm not coding, I enjoy exploring new technologies and learning from the developer community.
+### Hi there 👋 I'm Sanjid  
+#### 💻 Passionate Full-Stack Web Developer | 🚀 Exploring Code to Solve Real-World Problems
 
-Skills: C/ HTML / CSS
+I'm a dedicated and enthusiastic learner diving deep into the world of **Web Development** and **Programming**. Currently focusing on **Data Structures and Algorithms (DSA)** to strengthen my problem-solving skills. I’m passionate about turning ideas into reality using code and aim to build efficient and impactful software solutions.
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning DSA 
+---
+
+### 🔧 Tech Stack & Skills
+- 🌐 **Languages**: C, HTML, CSS, JavaScript  
+- 🛠️ **Currently Learning**: Java, Object-Oriented Programming, Responsive Web Design  
+- ⚙️ **Tools & Technologies**: VS Code, Git & GitHub, Chrome DevTools  
+- 🌱 Constantly learning and staying updated with new trends in web technologies.
+
+---
+
+### 💡 What I’m Up To
+- 🔭 Currently working on improving my frontend projects  
+- 🌱 Learning advanced **Java** and preparing for **Full-Stack Development**  
+- 🤝 Actively engaging with the developer community for learning and collaboration  
+- 📚 Practicing DSA to sharpen problem-solving skills
+
+---
+
+### 📫 Let's Connect!
+- 💼 [LinkedIn](www.linkedin.com/in/md-sanjid-islam146)  
+- 📬 Email: mdsanjidi36@gmail.com  
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
+> *Let's build something amazing together!*
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/engsanjid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-sanjid-islam-146472308/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sanjid.sanjid.311)  
