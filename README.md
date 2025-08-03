@@ -1,7 +1,4 @@
 ### Hi there 👋 I'm Sanjid  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.gif" width="400"/>
-</p>
 
 #### 💻 Passionate Full-Stack Web Developer | 🚀 Exploring Code to Solve Real-World Problems
 
