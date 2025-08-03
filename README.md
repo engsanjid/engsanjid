@@ -1,4 +1,8 @@
 ### Hi there 👋 I'm Sanjid  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.gif" width="400"/>
+</p>
+
 #### 💻 Passionate Full-Stack Web Developer | 🚀 Exploring Code to Solve Real-World Problems
 
 I'm a dedicated and enthusiastic learner diving deep into the world of **Web Development** and **Programming**. Currently focusing on **Data Structures and Algorithms (DSA)** to strengthen my problem-solving skills. I’m passionate about turning ideas into reality using code and aim to build efficient and impactful software solutions.
