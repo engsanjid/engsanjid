@@ -52,17 +52,15 @@ I'm a dedicated and enthusiastic learner diving deep into the world of **Web Dev
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=engsanjid)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engsanjid)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🧑‍💻 GitHub Profile Stats
 
 <!-- GitHub Streak -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=engsanjid&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/engsanjid)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=engsanjid&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
 <!-- GitHub Stats -->
-[![Sanjid's GitHub stats](https://github-readme-stats.vercel.app/api?username=engsanjid&show_icons=true&theme=react)](https://github.com/engsanjid)
+[![Sanjid's GitHub stats](https://github-readme-stats.vercel.app/api?username=engsanjid&show_icons=true&theme=dark&hide_border=false)](https://github.com/engsanjid)
 
-<!-- Most Used Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engsanjid&layout=compact&theme=react)](https://github.com/engsanjid)
+<!-- Top Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engsanjid&layout=compact&theme=dark&hide_border=false)](https://github.com/engsanjid)
 
 
