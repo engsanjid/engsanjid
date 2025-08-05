@@ -55,9 +55,13 @@ I'm a dedicated and enthusiastic learner diving deep into the world of **Web Dev
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engsanjid)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=engsanjid&show_icons=true&count_private=true)  
+### 🧑‍💻 GitHub Profile Stats
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" alt="GitHub" width="30"/>](https://github.com/engsanjid)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/md-sanjid-islam146)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" alt="Facebook" width="30"/>](https://www.facebook.com/sanjid.sanjid.311)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" alt="Email" width="30"/>](mailto:mdsanjidi36@gmail.com)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=engsanjid&theme=default)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engsanjid&show_icons=true&locale=en)
+
+<!-- Optional: Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engsanjid&layout=compact)
+
 
