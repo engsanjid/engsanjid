@@ -55,7 +55,7 @@ I'm a dedicated and enthusiastic learner diving deep into the world of **Web Dev
 ## 🧑‍💻 GitHub Profile Stats
 
 <!-- GitHub Streak -->
-[![GitHub Streak][(https://github-readme-streak-stats.herokuapp.com/?user=engsanjid&theme=dark&hide_border=false&cache_bust=1)](https://git.io/streak-stats)](https://github-readme-streak-stats.herokuapp.com/?user=engsanjid&theme=dark&hide_border=false&cache_bust=2)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=engsanjid&theme=dark&hide_border=false&cache_bust=2)
 
 <!-- GitHub Stats -->
 [![Sanjid's GitHub stats](https://github-readme-stats.vercel.app/api?username=engsanjid&show_icons=true&theme=dark&hide_border=false)](https://github.com/engsanjid)
