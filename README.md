@@ -1,4 +1,15 @@
-### Hi there 👋 I'm Sanjid  
+
+<p align="center">
+  <strong style="font-size: 28px;">Hi here 👋 I'm Sanjid</strong>
+</p>
+
+
+
+<p align="center">
+  <img src="https://i.ibb.co/qMvL9F9F/1751901255551.jpg" alt="Banner" />
+</p>
+
+                                                                           
 
 #### 💻 Passionate Full-Stack Web Developer | 🚀 Exploring Code to Solve Real-World Problems
 
@@ -9,23 +20,44 @@ to create efficient and impactful digital solutions.
 
 ---
 
-🔧 Tech Stack & Skills
+### 🛠️ Skills & Technologies  
 
+#### 🧑‍💻 Programming Languages  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+</p>
 
-🌐 Languages: C, Java, JavaScript
+#### 🌐 Web Development  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50"/>
+</p>
 
-🚀 Web Development Skills:
-HTML, CSS, TailwindCSS, React.js, Next.js (Basic),
-Node.js, Express.js, MongoDB, Firebase, API Integration
+#### 🛠️ Backend Development  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
+</p>
 
-🤖 AI & Integration Skills:
-AI Integration, API-based Automation
+#### ⚙️ Tools & Technologies  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
+</p>
 
-🛠️ Tools & Technologies:
-VS Code, Git & GitHub, Chrome DevTools
+---
 
-🌱 Currently Learning:
-Object-Oriented Programming, Full Stack Web Development
+### 🌱 Currently Learning  
+- Object-Oriented Programming  
+- Full Stack Web Development  
+
 
 ---
 
