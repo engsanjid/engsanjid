@@ -2,20 +2,37 @@
 
 #### 💻 Passionate Full-Stack Web Developer | 🚀 Exploring Code to Solve Real-World Problems
 
-I'm a dedicated and enthusiastic learner diving deep into the world of **Web Development** and **Programming**. Currently focusing on **Data Structures and Algorithms (DSA)** to strengthen my problem-solving skills. I’m passionate about turning ideas into reality using code and aim to build efficient and impactful software solutions.
+I'm a dedicated and enthusiastic Junior Web Developer exploring the world of Web Development.  
+Focused on mastering Full Stack Web Development to build fast, scalable, and user-friendly  
+applications. I love turning ideas into real projects using modern web technologies and aim  
+to create efficient and impactful digital solutions.
 
 ---
 
-### 🔧 Tech Stack & Skills
-- 🌐 **Languages**: C, HTML, CSS, JavaScript  
-- 🛠️ **Currently Learning**: Java, Object-Oriented Programming, Responsive Web Design  
-- ⚙️ **Tools & Technologies**: VS Code, Git & GitHub, Chrome DevTools  
-- 🌱 Constantly learning and staying updated with new trends in web technologies.
+🔧 Tech Stack & Skills
+
+
+🌐 Languages: C, Java, JavaScript
+
+🚀 Web Development Skills:
+HTML, CSS, TailwindCSS, React.js, Next.js (Basic),
+Node.js, Express.js, MongoDB, Firebase, API Integration
+
+🤖 AI & Integration Skills:
+AI Integration, API-based Automation
+
+🛠️ Tools & Technologies:
+VS Code, Git & GitHub, Chrome DevTools
+
+🌱 Currently Learning:
+Object-Oriented Programming, Full Stack Web Development
 
 ---
+
+
 
 ### 💡 What I’m Up To
-- 🔭 Currently working on improving my frontend projects  
+- 🔭Actively building and improving full-stack projects. 
 - 🌱 Learning advanced **Java** and preparing for **Full-Stack Development**  
 - 🤝 Actively engaging with the developer community for learning and collaboration  
 - 📚 Practicing DSA to sharpen problem-solving skills
