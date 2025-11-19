@@ -1,17 +1,15 @@
 
 <p align="center">
-  <strong style="font-size: 28px;">Hi here 👋 I'm Sanjid</strong>
+  <img src="https://i.postimg.cc/RhZGwWqx/sanjid-devloper.png" alt="Banner" />
 </p>
 
 
 
-<p align="center">
-  <img src="https://i.ibb.co/qMvL9F9F/1751901255551.jpg" alt="Banner" />
-</p>
+  <p align="center">
+  <strong style="font-size: 28px;text:bold">Hi Here 👋 I'm Sanjid</strong>
+</p>                                                                         
 
-                                                                           
-
-#### 💻 Passionate Full-Stack Web Developer | 🚀 Exploring Code to Solve Real-World Problems
+#### 💻 Passionate Junior Web Developer | 🚀 Exploring Code to Solve Real-World Problems 
 
 I'm a dedicated and enthusiastic Junior Web Developer exploring the world of Web Development.  
 Focused on mastering Full Stack Web Development to build fast, scalable, and user-friendly  
