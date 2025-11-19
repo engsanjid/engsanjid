@@ -3,12 +3,8 @@
   <img src="https://i.postimg.cc/RhZGwWqx/sanjid-devloper.png" alt="Banner" />
 </p>
 
-
-
-<p align="center">
-  <span style="font-size: 34px; font-weight: 700;">👋 Hi, I'm Sanjid</span>
-</p>
-                                                                      
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=800&width=700&height=70&color=00e676&background=0b1020&lines=👋+Hi%2C+I%27m+Sanjid+Islam;Passionate+Junior+Web+Developer)](https://git.io/typing-svg)
+                                                             
 
 #### 💻 Passionate Junior Web Developer | 🚀 Exploring Code to Solve Real-World Problems 
 
