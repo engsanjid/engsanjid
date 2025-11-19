@@ -5,9 +5,10 @@
 
 
 
-  <p align="center">
-  <strong style="font-size: 28px;text:bold">Hi Here 👋 I'm Sanjid</strong>
-</p>                                                                         
+<p align="center">
+  <span style="font-size: 34px; font-weight: 700;">👋 Hi, I'm Sanjid</span>
+</p>
+                                                                      
 
 #### 💻 Passionate Junior Web Developer | 🚀 Exploring Code to Solve Real-World Problems 
 
