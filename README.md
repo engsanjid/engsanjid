@@ -6,9 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=800&width=700&height=70&color=00e676&background=0b1020&lines=👋+Hi%2C+I%27m+Sanjid+Islam;Passionate+Junior+Web+Developer)](https://git.io/typing-svg)
                                                              
 
-#### 💻 Passionate Junior Web Developer | 🚀 Exploring Code to Solve Real-World Problems 
+#### 💻 Passionate Web Developer | 🚀 Exploring Code to Solve Real-World Problems 
 
-I'm a dedicated and enthusiastic Junior Web Developer exploring the world of Web Development.  
+I'm a dedicated and enthusiastic Developer exploring the world of Web Development.  
 Focused on mastering Full Stack Web Development to build fast, scalable, and user-friendly  
 applications. I love turning ideas into real projects using modern web technologies and aim  
 to create efficient and impactful digital solutions.
@@ -50,8 +50,8 @@ to create efficient and impactful digital solutions.
 ---
 
 ### 🌱 Currently Learning  
-- Object-Oriented Programming  
-- Full Stack Web Development  
+- Algorithom  
+- Full Stack Development  
 
 
 ---
