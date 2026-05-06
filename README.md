@@ -3,7 +3,7 @@
   <img src="https://i.postimg.cc/RhZGwWqx/sanjid-devloper.png" alt="Banner" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=600&lines=%F0%9F%91%8B+HI+I'm+Sanjid;%F0%9F%92%BB+Passionate+Full+Stack+Developer;%F0%9F%9A%80+Exploring+Code+to+Solve+Real-World+Problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=611&lines=%F0%9F%91%8B+HI+I'm+Sanjid....;%F0%9F%92%BB+Passionate+Full+Stack+Developer;%F0%9F%9A%80+Exploring+Code+to+Solve+Real-World+Problems)](https://git.io/typing-svg)
                                                              
 
 #### 💻 Passionate Full Stack Developer | 🚀 Exploring Code to Solve Real-World Problems 
